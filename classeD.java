@@ -9,4 +9,6 @@ public class classeD {
         System.out.println("MD2");
     }
     
+    public void MD4() {
+        System.out.println("MD4");
 }
