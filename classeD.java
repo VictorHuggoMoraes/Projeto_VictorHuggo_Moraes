@@ -8,8 +8,7 @@ public class classeD {
     public void MD2() {
         System.out.println("MD2");
     }
-<<<<<<< HEAD
-
+    
     public void MD3() {
         System.out.println("MD3");
     }
